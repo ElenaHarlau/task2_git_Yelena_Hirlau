@@ -1,2 +1,0 @@
-Testing git commit
-Add new file

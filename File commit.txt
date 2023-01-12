@@ -1,3 +1,4 @@
 File commited
 Testing updated file to commit
 Updated file commited
+Testing git diff - not added and not commited
